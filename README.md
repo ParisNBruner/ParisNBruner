@@ -1,5 +1,6 @@
 ### Hi there! My name is Paris(She/Her), I am a Applied Computing + MTV + SEB major at UW 👋
 ## I am currently working on: 
+     •Creating a chatbot in python
 
     •Grapevine: A social justice focused research project that utilizes GIS software such as ArcGIS
   
@@ -12,9 +13,7 @@
 
     •Git and version-control 
   
-    •ArcGIS 
-  
-    •Data Visualization using Python 
+    •Python: Numpy,ntlk,pickle,json
   
 ## Question I hope to one day answer:
 
