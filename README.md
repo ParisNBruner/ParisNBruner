@@ -8,10 +8,16 @@
     development cycles. 
   
     •Data Visualization using R 
+    
+    •Creating a Portfolio Webpage using Bootstrap 
+
+    
   
  ## I am current Learning: 
 
     •Git and version-control 
+    
+    •BootStrap
   
     •Python: Numpy,ntlk,pickle,json
   
