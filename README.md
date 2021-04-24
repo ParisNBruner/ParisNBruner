@@ -1,15 +1,12 @@
 ### Hi there! My name is Paris(She/Her), I am a Applied Computing + MTV + SEB major at UW 👋
 ## I am currently working on: 
-     •Creating a chatbot in python
-
-    •Grapevine: A social justice focused research project that utilizes GIS software such as ArcGIS
-  
-    •Documenting. I am currently learning the basics of technical writing and how to utilize software
-    development cycles. 
-  
+    •Creating a Web App via React that helps non-profits connect and exchange goods
+     
+    •Creating a Portfolio Webpage using Bootstrap 
+ 
     •Data Visualization using R 
     
-    •Creating a Portfolio Webpage using Bootstrap 
+   
 
     
   
