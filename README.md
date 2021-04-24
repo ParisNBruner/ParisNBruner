@@ -16,7 +16,10 @@
     
     •BootStrap
   
-    •Python: Numpy,ntlk,pickle,json
+    •React 
+    
+    •Firebase
+    
   
 ## Question I hope to one day answer:
 
