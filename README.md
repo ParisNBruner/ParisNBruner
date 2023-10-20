@@ -1,24 +1,18 @@
-### Hi there! My name is Paris(She/Her), I am a Applied Computing + MTV + SEB major at UW 👋
+### Hi there! My name is Paris(She/Her), I am a data analyst 👋
 ## I am currently working on: 
-    •Creating a Web App via React that helps non-profits connect and exchange goods
-     
-    •Creating a Portfolio Webpage using Bootstrap 
  
-    •Data Visualization using R 
-    
-   
+    •Creating a Portfolio Webpage using React 
 
     
+
   
  ## I am current Learning: 
-
-    •Git and version-control 
     
-    •BootStrap
+    •Web Design
   
     •React 
     
-    •Firebase
+ 
     
   
 ## Question I hope to one day answer:
