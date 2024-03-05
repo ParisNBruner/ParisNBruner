@@ -3,14 +3,7 @@
  
     •Creating a Portfolio Webpage using React 
 
-    
-
-  
- ## I am current Learning: 
-    
-    •Web Design
-  
-    •React 
+ 
     
  
     
@@ -19,6 +12,8 @@
 
     How can we best analyze social disparities, in an effort to track their root cause?
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/buttons" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow me on GitHub">Follow @buttons</a>
 
 <!--
 **ParisNBruner/ParisNBruner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
